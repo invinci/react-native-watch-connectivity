@@ -1,4 +1,4 @@
-
+{
   "name": "react-native-watch-connectivity",
   "version": "0.1.85",
   "main": "./RNWatch.ios.build.js",
